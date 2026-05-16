@@ -69,7 +69,7 @@ Data Modeling       █████████████████░░░
 
 ## What I Work On
 
-- **API Integrations** — connecting internal systems with external partners (banking, insurance, lab/imaging systems)
+- **API Integrations** — connecting internal systems with external partners (Hospital management system, banking, insurance, lab/imaging systems)
 - **Database Performance** — execution plan analysis, index strategy, query rewriting for Oracle and PostgreSQL
 - **System Architecture** — designing service layers, auth systems (JWT + RBAC), and data contracts between teams
 - **Legacy Modernization** — migrating and refactoring legacy codebases into maintainable TypeScript services
